@@ -21,12 +21,12 @@ The following **optional** features are implemented:
 
 ## Video Walkthrough
 
-Here's a walkthrough of implemented features:
+Here's a walkthrough of implemented features: https://i.imgur.com/WXomMxR.mp4
 
-<img src='https://i.imgur.com/WXomMxR.mp4' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<!-- <img src='https://i.imgur.com/WXomMxR.mp4' title='Video Walkthrough' width='' alt='Video Walkthrough' /> -->
 
 <!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  
+<!-- GIF created with ...   -->
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
 [ScreenToGif](https://www.screentogif.com/) for Windows
